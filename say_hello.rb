@@ -5,5 +5,3 @@ end
 say_hello ("Gabriela", Ruby programmer")
 
 say_hello
-  
-
